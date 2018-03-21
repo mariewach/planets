@@ -1,6 +1,9 @@
-# 1.**Essai document markdown**
-## 2.repertoire planets
+# Essai document markdown
+## Travail dans le repertoire planets
 
-il y a deux fichiers *mars.txt* et *venus.txt* comme exemple de git
-on a importé ces fichiers dans github
+..Il y a deux fichiers 
+...*mars.txt* 
+...*venus.txt* 
+
+..On a importé ces fichiers dans github
 
