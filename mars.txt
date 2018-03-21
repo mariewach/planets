@@ -11,3 +11,5 @@ essai
 but the mummy will appreciate the lack of humidity 
 
 je modifie le texte
+
+nouveau fichier de travail : venus.txt
